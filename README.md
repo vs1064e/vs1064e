@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<! --
+<img src="https://tenor.com/view/monkey-developer-software-coding-debug-gif-15160023" width="400"/>
 
 - 🌱 I’m currently learning Web development
 - 💬 Ask me about anything
